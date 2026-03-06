@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋 I'm Abhishek Kamble
+🎯 Aspiring Data Analyst passionate about transforming raw data into meaningful insights.
+---
 
-<!--
-**Abhishekkamble45/Abhishekkamble45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+🔭 I’m currently working on: Building **Data Analysis projects using Excel, SQL, Python and Power BI**
+🌱 I’m currently learning: **Advanced Excel, Data Visualization and Data Analysis techniques**
+💬 Ask me about: **Excel Dashboards, SQL Queries, Python Data Analysis**
+⚡ Fun Fact: I enjoy turning messy datasets into clear and meaningful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Socials
+
+[LinkedIn](https://linkedin.com)
+[GitHub](https://github.com)
+---
+
+## 💻 Tech Stack
+
+Excel | SQL | Python | Power BI | Tableau | Pandas | NumPy
+
+---
+⭐ Thank you for visiting my profile!
+
+
