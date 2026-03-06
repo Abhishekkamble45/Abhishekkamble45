@@ -19,8 +19,8 @@
 ## 🌐 Socials
 
 [LinkedIn](https://linkedin.com)
-
 [GitHub](https://github.com)
+
 ---
 
 ## 💻 Tech Stack
